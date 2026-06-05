@@ -1,12 +1,20 @@
-# pKL growth data
+# Code and Erratum for *Almost all pKL basis elements are bad*
 
 This repository contains data and plotting material for the computations accompanying the paper
 
-**Almost all pKL basis elements are bad**
+*Almost all pKL basis elements are bad*
 
 by Joseph Baine and Daniel Tubbenhauer.
 
 The computations compare the p-canonical basis element `pC(w)` with the ordinary Kazhdan--Lusztig basis element `C(w)` in finite Coxeter types.  An element is counted as **changed** if `pC(w) != C(w)`.  Equivalently, in the normalization used in the scripts, at least one local stalk polynomial below `w` differs from the characteristic-zero Kazhdan--Lusztig stalk polynomial.
+
+## Contact
+
+If you find any errors in the paper **please email me**:
+
+[dtubbenhauer@gmail.com](mailto:dtubbenhauer@gmail.com?subject=[GitHub]%web-reps)
+
+Same goes for any errors related to this page.
 
 ## What is in this repository?
 
@@ -92,3 +100,7 @@ Some low-rank cases at `p = 3` are absent because the available run set focused 
 ## Notes for the paper
 
 The computations are not used in the proof.  They are intended to show what already happens in small rank and to illustrate that the corrections are not merely present but can become large, spread out in Bruhat order, and genuinely graded.
+
+## Erratum
+
+Empty so far.
