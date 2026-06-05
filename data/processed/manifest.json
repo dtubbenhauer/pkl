@@ -1,0 +1,25 @@
+{
+  "n_cases": 23,
+  "n_p2_cases": 17,
+  "n_p3_cases": 6,
+  "figures": [
+    "01_changed_percentage_p2.png",
+    "02_classical_rank_trends_p2.png",
+    "02_classical_rank_trends_p3.png",
+    "03_prime_comparison_p2_vs_p3.png",
+    "04_correction_severity_stacked_p2.png",
+    "05_genuinely_graded_fraction_p2.png",
+    "06_length_heatmap_p2.png",
+    "07_length_profiles_selected_p2.png",
+    "08_abs_mass_avg_max_p2.png",
+    "08_abs_mass_avg_max_p3.png",
+    "09_full_vs_parabolic_support_p2.png",
+    "10_support_size_profile_selected_p2.png",
+    "11_bruhat_depth_distribution_p2.png",
+    "12_descent_heatmap_b6_p2.png",
+    "12_descent_heatmap_c6_p2.png",
+    "12_descent_heatmap_d6_p2.png",
+    "12_descent_heatmap_e6_p2.png",
+    "12_descent_heatmap_f4_p2.png"
+  ]
+}
