@@ -2,7 +2,7 @@
 
 This repository contains data and plotting material for the computations accompanying the paper
 
-*Almost all pKL basis elements are bad*
+*Torsion proliferation*
 
 by Joseph Baine and Daniel Tubbenhauer.
 
