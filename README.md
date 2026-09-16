@@ -1,4 +1,4 @@
-# Code and Erratum for *Almost all pKL basis elements are bad*
+# Code and Erratum for *Torsion proliferation*
 
 This repository contains data and plotting material for the computations accompanying the paper
 
@@ -15,6 +15,10 @@ If you find any errors in the paper **please email me**:
 [dtubbenhauer@gmail.com](mailto:dtubbenhauer@gmail.com?subject=[GitHub]%web-reps)
 
 Same goes for any errors related to this page.
+
+## Shoutout
+
+All the computations were done using Gibson and Williamson's IHecke and ASLoc, see [IHecke Repository](https://github.com/joelgibson/IHecke) and [ASLoc Repository](https://github.com/joelgibson/ASLoc)
 
 ## What is in this repository?
 
