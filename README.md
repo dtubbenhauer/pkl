@@ -107,7 +107,7 @@ The computations are not used in the proof.  They are intended to show what alre
 
 ## A warning on type C6 data
 
-We had a memory issue during the high length computation in type C6, so it is expected that the data is slightly off for a handful of elements. Still, the percentage given in the paper of changed elements should be 99% correct.
+We had a memory issue during the high length computation in type C6, so it is expected that the data is slightly off for a handful of elements. Still, the percentage of changed elements given in the paper is 99% correct.
 
 ## Erratum
 
