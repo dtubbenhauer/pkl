@@ -105,6 +105,10 @@ Some low-rank cases at `p = 3` are absent because the available run set focused 
 
 The computations are not used in the proof.  They are intended to show what already happens in small rank and to illustrate that the corrections are not merely present but can become large, spread out in Bruhat order, and genuinely graded.
 
+## A warning on type C6 data
+
+We had a memory issue during the high length computation in type C6, so it is expected that the data is slightly off for a handful of elements. Still, the percentage given in the paper of changed elements should be 99% correct.
+
 ## Erratum
 
 Empty so far.
